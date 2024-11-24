@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Framwork, Lenguages**
 
-- 👨‍💻 All of my projects are available at [when they are available 🤣](when they are available 🤣)
+- 👨‍💻 SI PUEDES IMAGINARLO PUEDES PROGRAMARLO
 
 - 💬 Ask me about **The live 😁**
 
