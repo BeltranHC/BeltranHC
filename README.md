@@ -16,7 +16,7 @@ I'm an eighth-semester student of Statistics and Computer Science. I'm expanding
   - laravel
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
-- Outside tech, 💜I love programing, 🎮 playing videogames, 🎵 listening to music.
+- Outside tech, 💜I love watching series , 🎮 playing videogames, 🎵 listening to music.
 - 👾 Additionally!
 - 📫 Reach out to me at: <a href="huaraya0804@gmail.com">huaraya0804@gmail.com</a>
 
@@ -35,7 +35,7 @@ I'm an eighth-semester student of Statistics and Computer Science. I'm expanding
 </span>
 
 
-<h4> Other Tools and Technologies </h4>
+<h4> Data base </h4>
 <span>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   
