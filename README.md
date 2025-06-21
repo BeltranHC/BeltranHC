@@ -17,7 +17,7 @@ I'm an eighth-semester student of Statistics and Computer Science. I'm expanding
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
 - Outside tech, 💜I love watching series , 🎮 playing videogames, 🎵 listening to music.
-- 👾 Additionally!
+- 👾 If you can imagine it, you can program it.!
 - 📫 Reach out to me at: <a href="huaraya0804@gmail.com">huaraya0804@gmail.com</a>
 
 ## My Skills Include
