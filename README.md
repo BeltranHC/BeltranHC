@@ -43,7 +43,7 @@ I'm an eighth-semester student of Statistics and Computer Science. I'm expanding
 
 ## Competition
 <span>
-<a>
+<a href="https://codeforces.com/profile/huaraya0804">
   <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white">
 </a>
 
