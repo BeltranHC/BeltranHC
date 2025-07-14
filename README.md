@@ -71,6 +71,6 @@ I'm an eighth-semester student of Statistics and Computer Science. I'm expanding
 
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=PokerJR&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/PokerJR)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=PokerJR&theme=material-palenight)](https://github.com/PokerJR)
+[![](https://github-readme-stats.vercel.app/api?username=PokerJR&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/BeltranHC)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=PokerJR&theme=material-palenight)](https://github.com/BeltranHC)
 </div>
