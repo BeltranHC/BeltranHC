@@ -1,235 +1,154 @@
-<div align="center">
-
-<!-- HEADER ANIMADO CON WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Junior%20Huaraya&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Desarrollador%20Full%20Stack%20%7C%20Ingeniero%20de%20Software%20%7C%20Entusiasta%20de%20IA&descAlignY=52&descSize=18"/>
-
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%9A%80+Transformando+ideas+en+c%C3%B3digo+elegante;%F0%9F%8E%AF+Apasionado+por+la+innovaci%C3%B3n+tecnol%C3%B3gica;%E2%9C%A8+Si+puedes+imaginarlo%2C+puedo+programarlo" alt="Typing SVG" />
-</a>
-
-<!-- PROFILE VIEWS & FOLLOWERS -->
-<br/>
-<p>
-  <img src="https://komarev.com/ghpvc/?username=BeltranHC&label=Visitantes+del+Perfil&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-  <a href="https://github.com/BeltranHC?tab=followers">
-    <img src="https://img.shields.io/github/followers/BeltranHC?label=Seguidores&style=for-the-badge&color=blue" alt="Followers"/>
-  </a>
-</p>
-
-<!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-</div>
-
-<!-- ABOUT ME SECTION -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> **Sobre Mí**
-
-```javascript
-const juniorHuaraya = {
-    ubicacion: "Perú 🇵🇪",
-    educacion: "Estudiante de Estadística e Informática",
-    rol: "Desarrollador Full Stack & Entusiasta de IA",
-    pasiones: ["Innovación", "Código Limpio", "Machine Learning", "Diseño UI/UX"],
-    filosofia: "El código es poesía que resuelve problemas del mundo real ✨"
-};
-```
-
-<div align="center">
-
-### 💫 *"La excelencia no es un acto, sino un hábito"*
-
-</div>
-
----
-
-<!-- TECH STACK -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> **Stack Tecnológico**
-
-<div align="center">
-
-### 🎨 **Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,javascript,typescript,tailwind,bootstrap,sass&perline=5" />
-</p>
-
-### ⚙️ **Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel,php,python,fastapi,prisma&perline=4" />
-</p>
-
-### 🗄️ **Bases de Datos**
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase&perline=5" />
-</p>
-
-### 🛠️ **Herramientas & DevOps**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,linux,vscode,figma,postman&perline=4" />
-</p>
-
-### 🤖 **Inteligencia Artificial & Data Science**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,r&perline=4" />
-</p>
-
-### 💻 **Lenguajes de Programación**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,java,php,r&perline=7" />
-</p>
-
-</div>
-
----
-
-<!-- GITHUB STATS -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **Estadísticas de GitHub**
-
-<div align="center">
-  
-<p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=BeltranHC&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=BeltranHC&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" />
-</p>
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeltranHC&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=10" />
-
-</div>
-
----
-
-<!-- GITHUB TROPHIES -->
-## 🏆 **Trofeos de GitHub**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BeltranHC&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" />
-</div>
-
----
-
-<!-- ACTIVITY GRAPH -->
-## 📊 **Gráfico de Actividad**
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BeltranHC&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true&custom_title=Contribuciones%20de%20Junior%20Huaraya" />
-</div>
-
----
-
-<!-- SNAKE ANIMATION -->
-## 🐍 **Contribuciones**
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
----
-
-<!-- COMPETITIVE PROGRAMMING -->
-## 🎯 **Programación Competitiva**
-
-<div align="center">
-  <a href="https://codeforces.com/profile/huaraya0804">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-  </a>
-  <a href="https://www.hackerrank.com/">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=black" />
-  </a>
-</div>
-
----
-
-<!-- OFFICE TOOLS -->
-## 📑 **Suite Ofimática**
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-</div>
-
----
-
-<!-- CONNECT WITH ME -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> **Conecta Conmigo**
-
-<div align="center">
-
-<a href="mailto:huaraya0804@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/junior-huaraya-793272329">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/jhack_hc/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://www.tiktok.com/@beltran_hc">
-  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-</a>
-<a href="https://github.com/BeltranHC">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<!-- QUOTE -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
-
----
-
-<!-- SPOTIFY / MUSIC -->
-## 🎵 **Escuchando Ahora**
-
-<div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31eysh4m4n7y3hzh4bcjxjzzzjaa&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=a855f7" />
-</div>
-
----
-
-<!-- FOOTER -->
-<div align="center">
-
-### 💼 *¿Interesado en colaborar? ¡No dudes en contactarme!*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
-
-</div>
-
-<!-- SUPPORT -->
-<div align="center">
-  
-### ☕ **Apóyame**
-
-<a href="https://www.buymeacoffee.com/">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-</a>
-<a href="https://ko-fi.com/">
-  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-</div>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hola, soy <b>Junior Huaraya</b>
+</h1>
 
 <p align="center">
-  <b>⭐ ¡Si te gusta mi trabajo, no olvides dejar una estrella! ⭐</b>
+  <b>Desarrollador Full Stack</b> • <b>Científico de Datos</b> • <b>Ingeniero de Software</b> • <b>Entusiasta de IA</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/BeltranHC">
+    <img src="https://img.shields.io/badge/GitHub-BeltranHC-181717?style=flat&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/junior-huaraya-793272329">
+    <img src="https://img.shields.io/badge/LinkedIn-Junior_Huaraya-0A66C2?style=flat&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:huaraya0804@gmail.com">
+    <img src="https://img.shields.io/badge/Email-huaraya0804%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+## 👨‍💻 Sobre Mí
+
+Soy estudiante de **Estadística e Informática** apasionado por la tecnología, el análisis de datos y el desarrollo de software. Me especializo en crear soluciones innovadoras que combinan el poder del código con la inteligencia de los datos.
+
+- 🚀 **Desarrollador Full Stack** con experiencia en frontend y backend
+- 📊 **Científico de Datos** con conocimientos en Machine Learning y análisis estadístico
+- 🤖 **Entusiasta de la Inteligencia Artificial** explorando nuevas fronteras tecnológicas
+- 🎯 Siempre aprendiendo y buscando nuevos desafíos
+- 💡 *"Si puedes imaginarlo, puedes programarlo"*
+
+---
+
+## 🛠️ Stack Tecnológico
+
+### Lenguajes de Programación
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Bases de Datos
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+### Data Science & Machine Learning
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### Herramientas & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BeltranHC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeltranHC&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=BeltranHC&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## � Programación Competitiva
+
+<p align="center">
+  <a href="https://codeforces.com/profile/huaraya0804">
+    <img src="https://img.shields.io/badge/Codeforces-huaraya0804-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📑 Herramientas de Oficina
+
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+---
+
+## 🌐 Conecta Conmigo
+
+<p align="center">
+  <a href="mailto:huaraya0804@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/junior-huaraya-793272329">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/jhack_hc/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.tiktok.com/@beltran_hc">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 💬 Hablemos
+
+¿Tienes un proyecto interesante o simplemente quieres conectar? ¡No dudes en contactarme!
+
+- ✉️ **Email:** huaraya0804@gmail.com
+- 💼 **LinkedIn:** [Junior Huaraya](https://www.linkedin.com/in/junior-huaraya-793272329)
+
+---
+
+<p align="center">
+  <i>✨ "La excelencia no es un acto, sino un hábito" ✨</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Gracias_por_visitar-❤️-red?style=flat"/>
 </p>
