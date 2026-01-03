@@ -17,8 +17,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=BeltranHC&color=8B5CF6&style=for-the-badge&label=VISITAS+AL+PERFIL)
-
 </div>
 
 ---
