@@ -156,7 +156,7 @@ class JuniorHuaraya:
 
 ---
 
-## 🌐 Conectemos
+## 🌐 Conectemos 👾
 
 <div align="center">
 
