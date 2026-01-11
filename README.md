@@ -44,7 +44,7 @@ class JuniorHuaraya:
 
 <div align="center">
   
-### 💬 *"La excelencia no es un acto, sino un hábito"*
+### 🧠 *"La excelencia no es un acto, sino un hábito"*
 
 </div>
 
