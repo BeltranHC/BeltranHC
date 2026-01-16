@@ -167,7 +167,7 @@ class JuniorHuaraya:
 
 <br/>
 
-### 👨‍💻 ¿Tienes un proyecto interesante? ¡Hablemos!
+### 👨‍💻 ¿Tienes un proyecto interesante en mente? ¡Hablemos!
 **✉️ huaraya0804@gmail.com**
 
 </div>
