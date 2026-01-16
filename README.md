@@ -33,7 +33,7 @@ class JuniorHuaraya:
             "Desarrollador Full Stack",
             "Científico de Datos", 
             "Ingeniero de Software",
-            "Entusiasta de IA"
+            "Analista de datos"
         ]
         self.aprendiendo = ["Nest.js", "Angular", "Laravel"]
         self.hobbies = ["Series 📺", "Videojuegos 🎮", "Música 🎵"]
