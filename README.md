@@ -119,10 +119,10 @@ class JuniorHuaraya:
 
 <div align="center">
   <a href="https://github.com/BeltranHC">
-    <img src="https://github-readme-stats.vercel.app/api?username=BeltranHC&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+    <img src="https://readme-stats.vercel.app/api?username=BeltranHC&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/BeltranHC">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeltranHC&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+    <img src="https://readme-stats.vercel.app/api/top-langs/?username=BeltranHC&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
   </a>
 </div>
 
