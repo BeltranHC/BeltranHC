@@ -111,41 +111,7 @@ class JuniorHuaraya:
 
 </div>
 
----
 
-<div align="center">
-  <h2><img src="https://api.iconify.design/lucide/line-chart.svg?color=%238B5CF6" width="28" align="absmiddle"/> GitHub Analytics</h2>
-</div>
-
-<div align="center">
-  <a href="https://github.com/BeltranHC">
-    <img src="https://readme-stats.vercel.app/api?username=BeltranHC&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/BeltranHC">
-    <img src="https://readme-stats.vercel.app/api/top-langs/?username=BeltranHC&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/BeltranHC">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=BeltranHC&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BeltranHC&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=8B5CF6&point=FFFFFF" width="100%" alt="Activity Graph"/>
-</div>
-
----
-
-<div align="center">
-  <h2><img src="https://api.iconify.design/lucide/award.svg?color=%238B5CF6" width="28" align="absmiddle"/> GitHub Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=BeltranHC&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="Trophies"/>
-</div>
 
 ---
 
