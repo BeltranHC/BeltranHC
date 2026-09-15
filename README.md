@@ -9,6 +9,12 @@
   <a href="https://github.com/BeltranHC">
     <img src="https://img.shields.io/badge/GitHub-BeltranHC-166534?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://www.linkedin.com/in/junior-huaraya/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://beltranhc.github.io/portafolio/">
+    <img src="https://img.shields.io/badge/Portafolio-0f172a?style=flat-square&logo=react&logoColor=white" alt="Portafolio" />
+  </a>
   <img src="https://img.shields.io/badge/Per%C3%BA-22c55e?style=flat-square&logo=googlemaps&logoColor=white" alt="Perú" />
 </p>
 
